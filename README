@@ -1,14 +1,14 @@
-##Project requirements:
-	### Latest version python installed in system.
-	### https://www.python.org/downloads/
-	### While making this project using Python 3.9.5
+ Project requirements:
+	Latest version python installed in system.
+	https://www.python.org/downloads/
+	While making this project using Python 3.9.5
 
-## After Installing Python open command promot and add libraries.
-	### Commands listed below:
-		#### pip install opencv-contrib-python
-		#### pip install opencv-python
-		#### pip install threading
-		#### pip install playsound
-		#### pip install smtplib
+After Installing Python open command promot and add libraries.
+	Commands listed below:
+		pip install opencv-contrib-python
+		pip install opencv-python
+		pip install threading
+		pip install playsound
+		pip install smtplib
 
-## search IDLE in start bar and Open Python IDLE
+search IDLE in start bar and Open Python IDLE
